@@ -3,7 +3,7 @@
 ***Ing. de Sistemas** y desarrollador **Backend** de **C#**.*
 
 *Tengo un gusto particular por el desarrollo de aplicaciones moviles y debido a esto,
-he aprendido e interactuado con direfentes **Leguajes, Frameworks y Bases de Datos**.*
+he aprendido e interactuado con direfentes **Lenguajes, Frameworks y Bases de Datos**.*
 
 *La mayoria de veces solo por curiosidad y como casi todo el tiempo me ha quedado gustando.*
 

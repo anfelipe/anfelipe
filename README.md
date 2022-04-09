@@ -2,10 +2,10 @@
 
 ***Ing. de Sistemas** y desarrollador **Backend** de **C#**.*
 
-*Tengo un gusto particular por el desarrollo de aplicaciones moviles y debido a esto,
-he aprendido e interactuado con direfentes **Lenguajes, Frameworks y Bases de Datos**.*
+*Aquí no todo es Back, me gusta practicar Front y por supuesto el desarrollo de aplicaciones moviles. Debido a esto,
+he experimentado con direfentes **Lenguajes, Frameworks, librerias y Bases de Datos**.*
 
-*La mayoría de veces solo por curiosidad y como casi todo el tiempo me ha quedado gustando.*
+*En gran parte es solo por curiosidad, y ya sabes, "la curiosidad mató al gato". XD*
 
 ```C#
 class Andres : Intereses {
